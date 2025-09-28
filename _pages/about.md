@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the [University of Notre Dame](https://www.nd.edu/), where I am fortunate to be advised by Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). I received my Bachelor's degree from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+I am a first-year PhD student at the Computer Science and Engineering (CSE) of the [University of Notre Dame](https://www.nd.edu/), where I am fortunate to be advised by Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). I received my Bachelor's degree from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
 ## Research Interests
 
-My research interests lie at the intersection of **machine learning systems** and **efficient computing**. I am particularly interested in:
+My research interests lie at the intersection of **Machine learning** and **Scientific computing**. I am particularly interested in:
 
 - **Large Language Models**: Enhancing reasoning capabilities and domain-specific intelligence in LLMs
 - **ML Systems**: Designing efficient systems for machine learning workloads, including serverless computing architectures and GPU resource management
