@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Computer Science and Engineering, <a href='https://www.nd.edu/'>University of Notre Dame</a>
+subtitle: Department of Computer Science and Engineering, <a href='https://www.nd.edu/'>University of Notre Dame</a>
 
 profile:
   align: right
