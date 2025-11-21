@@ -31,7 +31,7 @@ I am a first-year PhD student at the Computer Science and Engineering (CSE) of t
 
 ## Research Interests
 
-My research interests lie in **large language models**, **data-centric AI**, and **machine learning systems**, with a focus on:
+My research interests lie in **large language models** and **data-centric AI** with a focus on:
 
 - **Reasoning and Tool-Augmented Foundation Models**: explores how to endow foundation models with flexible, context-aware reasoning and the ability to orchestrate external tools and domain knowledge.
 - **Data-Centric Optimization**: emphasizes data-centric methods for improving the reliability, robustness, and evaluability of AI systems.
